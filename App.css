@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body{
+  /* background-color: black; */
+}
+.app-joke{
+ width: 500px;
+ height: 500px;
+ border: 2px solid black;
+ margin: 10% 30%;
+ background-color: rgb(212, 206, 218);
+
+}
+.app-joke h3{
+  text-align: center;
+  align-items: center;
+  color: white;
+  padding: 10px;
+}
+.btn1{
+  background-color: rgb(0, 225, 255);
+
+ position: absolute;
+ left: 40%;
+ top: 70%;
+ width: 120px;
+ padding: 10px;
+}
